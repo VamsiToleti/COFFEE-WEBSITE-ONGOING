@@ -26,11 +26,3 @@ This project is part of an ongoing series to practice and improve frontend devel
 - *(JavaScript will be added in future for interactivity)*
 
 
-## 📂 Folder Structure
-
-COFFEE-WEBSITE-ONGOING/
-├── index.html
-├── style.css
-├── backg.jpg # Background image
-├── favicon.ico # Site icon
-└── (additional assets coming soon)
